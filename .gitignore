@@ -15,3 +15,9 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+.vscode/*
