@@ -1,0 +1,1 @@
+<h4 class="header-title m-t-0 m-b-30"><?= @$sub_title ?></h4>
